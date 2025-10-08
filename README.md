@@ -60,7 +60,3 @@ This project demonstrates **API integration, state management with BLoC + Cubit,
 ## 👋 Author
 
 Made with ❤️ by **Jay Halani**
-
----
-
-If you want, I can also add a **“Future Improvements” section** with ideas like favorites, sorting, and sparkline charts to make the README more comprehensive. Do you want me to do that?
